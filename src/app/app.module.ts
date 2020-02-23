@@ -11,14 +11,10 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
-import { ClasscardComponent } from './classcard/classcard.component';
-import { AutoTrainerComponent } from './auto-trainer/auto-trainer.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    ClasscardComponent,
-    AutoTrainerComponent
+    AppComponent
   ],
   imports: [
     BrowserModule,
