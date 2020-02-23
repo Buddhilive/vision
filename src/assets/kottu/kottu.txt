@@ -1,0 +1,10 @@
+assests/kottu/1.jpg
+assests/kottu/2.jpg
+assests/kottu/3.jfif
+assests/kottu/4.jfif
+assests/kottu/5.jpg
+assests/kottu/6.jfif
+assests/kottu/7.jfif
+assests/kottu/8.jfif
+assests/kottu/9.jpg
+assests/kottu/10.jpg
